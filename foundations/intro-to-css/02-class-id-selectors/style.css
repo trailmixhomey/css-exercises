@@ -1,0 +1,16 @@
+.primary, 
+.super-prime {
+    background-color:#ff4be1;
+}
+
+.super-prime {
+    font-size: large;
+}
+
+#subprime {
+    color:blue; font-size: x-large;
+}
+
+#secondary {
+    background-color: mediumaquamarine; font-size: large; font-weight: bold;
+}
